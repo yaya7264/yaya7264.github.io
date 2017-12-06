@@ -1,0 +1,8 @@
+TEMPLATE FROM http://www.free-css.com/free-css-templates/page218/simple
+
+Hangman - http://daramcq.github.io/img/hangman-game-5.png
+
+you died - https://vignette.wikia.nocookie.net/darksouls/images/6/63/You-Died.jpg/revision/latest?cb=20130515050459
+
+School of Athens - https://www.sartle.com/sites/default/files/images/artwork/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg
+
